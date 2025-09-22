@@ -62,6 +62,5 @@ npx hardhat run scripts/interact.js --network sepolia
 
 This project demonstrates setting up a Hardhat environment, deploying a smart contract using Ignition, and interacting with it using ethers.js. It is a complete, hands-on introduction to Ethereum development and local blockchain testing.
 
-
 ---
 
